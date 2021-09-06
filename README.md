@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shelkev2
 - 👀 I’m interested in Data intellegence & ML world. Like to learn new math terms.
-- 🌱 I’m currently learning Deel Learning
+- 🌱 I’m currently learning & exploring Data science, Data analytics, ML, Deep Learning world
 
 
 <!---
